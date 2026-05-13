@@ -1,3 +1,7 @@
+> **⚠️ Archived.** InferAll CLI was a fork of [OpenCode](https://github.com/opencode-ai/opencode) by Kujtim Hoxha (MIT). The upstream project has also been archived; the successor is [Crush](https://github.com/charmbracelet/crush) (FSL-1.1-MIT). InferAll has discontinued this line of work — see the forthcoming public [`inferall` Python SDK](https://github.com/kindlyrobotics/infra/tree/main/packages/inferall-py) for the canonical InferAll developer surface.
+
+---
+
 # Archived: Project has Moved
 
 This repository is no longer maintained and has been archived for provenance.
